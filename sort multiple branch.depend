@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1562327309 source:e:\level-ll term-l\c++ basic, atik sir\sort multiple branch\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+
